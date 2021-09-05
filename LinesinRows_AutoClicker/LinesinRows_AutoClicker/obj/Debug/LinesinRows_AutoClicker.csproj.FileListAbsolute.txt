@@ -1,0 +1,10 @@
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\bin\Debug\LinesinRows_AutoClicker.exe.config
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\bin\Debug\LinesinRows_AutoClicker.exe
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\bin\Debug\LinesinRows_AutoClicker.pdb
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.Form1.resources
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.Properties.Resources.resources
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.csproj.GenerateResource.cache
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.csproj.CoreCompileInputs.cache
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.exe
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.pdb
+D:\Program Files\LinesinRows_AutoClicker\LinesinRows_AutoClicker\obj\Debug\LinesinRows_AutoClicker.csproj.AssemblyReference.cache
